@@ -1,6 +1,7 @@
 .nav-bar-container > ul > li{
     list-style: none;
     display: inline;
+    margin-top: 10px;
   }
   .list{
     color:white;
