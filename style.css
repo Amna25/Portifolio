@@ -1,6 +1,25 @@
+
+   
 body{
-    background-color: aqua;
+    background-color:#484848;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  @media (min-width: 768px){
+  
+  
+  
+  }
+@media (min-width: 1080px){
+body{
+  margin: 0;
+  background-color: #484848;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
 }
+
+
 .home-container{
     text-align: center;
     background-color: gray;
