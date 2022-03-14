@@ -15,7 +15,7 @@ body{
     height: 250px;
     width: 250px;
     border-radius: 250px;
-    margin-top: 36px;
+    margin-top: 70px;
     margin-bottom: 50px;
   }
   .Amy-name{
@@ -45,7 +45,7 @@ body{
     height: 500px;
     width: 500px;
     border-radius: 250px;
-    margin-top: 50px;
+    margin-top: 70px;
     margin-bottom: 100px;
   }
   .Amy-name{
@@ -67,11 +67,6 @@ body{
   .developer{
     margin-left: 350px;
     margin-top: 0px;
-  }
-
-  .nav-bar-container > ul{
-    margin-top: 0;
-    padding-top: 25px;
   }
   
   }
