@@ -15,9 +15,7 @@
     text-decoration: none;
     margin-right: 36px;
   }
-  .list.router-link-active{
-    color: orange;
-  }
+
   @media (min-width: 1080px){
   .nav-bar-container > ul{
     margin-top: 0;
