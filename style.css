@@ -21,7 +21,7 @@ body{
   }
   .Amy-name{
     font-size: 90px;
-    margin-top: 50px;
+    margin-top: 70px;
     margin-bottom: 0px;
     }
   h2{
@@ -47,13 +47,13 @@ body{
     width: 500px;
     border-radius: 250px;
     /*  */
-    margin-top: 70px;
+    margin-top: 125px;
     margin-bottom: 100px;
   }
   .Amy-name{
     grid-area: A;
     font-size: 90px;
-    margin-top: 125px;
+    margin-top: 200px;
     }
   h2{
       font-size: 50px;

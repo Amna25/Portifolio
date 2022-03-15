@@ -1,0 +1,10 @@
+.parent-container{
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Babout{
+    padding-left:20px;
+    padding-right:25px;
+    line-height: 25px;
+    text-align: justify;
+}
