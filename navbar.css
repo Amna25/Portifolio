@@ -37,13 +37,14 @@ footer {
   text-align: center;
   width: 100%;
   padding: 20px;
-  border-bottom: 1px solid #0B3C5D;
+  /* border-bottom: 1px solid #0B3C5D;
   background-color: #0B3C5D;
-  border-top: 1px solid #0B3C5D;
+  border-top: 1px solid #0B3C5D; */
   z-index:2;
   justify-content: center;
   display: flex;
-  margin: 20px 20px;
+  margin: 30px 30px;
+  margin-bottom:50px;
 }
 
 a {
@@ -54,9 +55,9 @@ a {
   color: #D9B310;
 }
 
-a:hover {
+/* a:hover {
   color: #0B3C5D;
-}
+} */
 #contact {
   padding: 0 20px;
 }
